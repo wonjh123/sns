@@ -1,0 +1,7 @@
+.env
+.env.example
+.claude/
+.mcp.json
+server.js
+PRD.md
+skills-lock.json
